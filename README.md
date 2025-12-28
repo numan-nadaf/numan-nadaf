@@ -1,6 +1,5 @@
-# 💫 About Me:
-Hey, I’m Numan 👋 🔧 Coding with React, APIs & backend 🎯 Into freelancing, startups & marketing 📍 Karnataka, India | 🧠 Always curious
-
+# About Me:
+Founder & technical builder focused on full-stack development, product design, and early-stage startups. Based in Karnataka, India.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/hashminuman) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/numan.nadaf.31) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_.numan_.007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/mr-numan-nadaf-1bb8ab271/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@growthwithnuman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:numan.nadaf06@gmail.com) 
@@ -14,5 +13,14 @@ Hey, I’m Numan 👋 🔧 Coding with React, APIs & backend 🎯 Into freelanci
 
 ---
 [![](https://visitcount.itsvg.in/api?id=numan-nadaf&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📊 GitHub Stats:
+
+![Numan's GitHub stats](https://github-readme-stats.vercel.app/api?username=numan-nadaf&show_icons=true&theme=dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=numan-nadaf&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=numan-nadaf&layout=compact&theme=dark&hide_border=true)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
